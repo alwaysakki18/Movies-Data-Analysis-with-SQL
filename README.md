@@ -1,4 +1,4 @@
-# 🎬 Movie Analysis SQL Project
+# 🎬 Movie Data Analysis with SQL
 
 ## 📌 Project Overview
 This project focuses on analysing a movie dataset using **SQL** to answer business-related questions, perform data aggregation, and apply advanced SQL concepts like **CTEs** and **Window Functions**.
@@ -13,7 +13,7 @@ The goal of this project is to:
 ## 📂 Dataset Description
 The `/data` folder contains the dataset used for this project:
 
-- **Boxoffice_Fact.csv** → Contains movie-wise box office performance data including budget, worldwide collection, and OTT platform.
+- **Boxoffice_Fact.csv** → Contains movie-wise box office performance data, including budget, worldwide collection, and OTT platform.
 - **Director_dim.csv** → List of directors with their unique IDs.
 - **Language_dim.csv** → List of languages with their unique IDs.
 - **Genere_dim.csv** → List of genres with their unique IDs.
@@ -36,7 +36,7 @@ The `/data` folder contains the dataset used for this project:
 ---
 
 ## 📧 Contact
-**Author:** Akshay Pimpale (B.E. Artificial Intelligence & Data Science)
+**Author:** Akshay Pimpale (B.E. AI & DS)
 **LinkedIn:** [Akshay Pimpale](https://www.linkedin.com/in/alwaysakki18/)  
 **Email:** akshaypimpale18@gmail.com
 
