@@ -1,7 +1,7 @@
 # 🎬 Movie Analysis SQL Project
 
 ## 📌 Project Overview
-This project focuses on analyzing a movies dataset using **SQL** to answer business-related questions, perform data aggregation, and apply advanced SQL concepts like **CTEs** and **Window Functions**.
+This project focuses on analysing a movie dataset using **SQL** to answer business-related questions, perform data aggregation, and apply advanced SQL concepts like **CTEs** and **Window Functions**.
 
 The goal of this project is to:
 - Practice SQL skills from basic to advanced.
@@ -36,8 +36,8 @@ The `/data` folder contains the dataset used for this project:
 ---
 
 ## 📧 Contact
-**Author:** Kavyanshu Pawar  
-**LinkedIn:** [Kavyanshu Pawar](https://www.linkedin.com/in/kavyanshu-pawar/)  
-**Email:** pawarkavyanshu123@gmail.com
+**Author:** Akshay Pimpale (B.E. Artificial Intelligence & Data Science)
+**LinkedIn:** [Akshay Pimpale](https://www.linkedin.com/in/alwaysakki18/)  
+**Email:** akshaypimpale18@gmail.com
 
 ---
